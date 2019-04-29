@@ -1,4 +1,7 @@
 # Udemy Python Bootcamp
 
-- Placing things I learn and tinker around from Udemy's Python Bootcamp here
-- Ranges from very begginer to we'll see :)
+Section 1 - Overview
+
+Section 2 - Install Python
+
+Section 3 - Python Object and Data Structure Basics
