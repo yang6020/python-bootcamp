@@ -1,4 +1,4 @@
-# Udemy Python Bootcamp
+# Udemy Python Bootcamp - repo starts at Section 3
 
 Section 1 - Overview
 
